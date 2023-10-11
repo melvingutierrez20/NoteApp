@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="txtInicio">Hola</string>
+    <string name="txtInicio2">Vamos a Empezar</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtContra">Contraseña</string>
+    <string name="txtConfContra">Confirmar Contraseña</string>
+    <string name="txtCrear">CREAR CUENTA</string>
+    <string name="txtInicio3">¿Ya tienes una cuenta? </string>
+    <string name="txtInicio4">Acceder</string>
+
+</resources>
