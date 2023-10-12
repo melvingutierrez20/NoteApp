@@ -11,6 +11,6 @@
     <string name="txtLogin1">Bienvenido de nuevo</string>
     <string name="txtBtnLogin">Acceder</string>
     <string name="txtLogin2">¿No tienes una cuenta? </string>
-    <string name="txtLogin3">Registrate</string>
+    <string name="txtLogin3"> Registrate</string>
 
 </resources>
