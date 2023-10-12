@@ -15,5 +15,10 @@
     <string name="txtNewNote">Agregar Nueva Nota</string>
     <string name="txtNewNote2">Título</string>
     <string name="txtNewNote3">Contenido</string>
+    <string name="txtNotes">Notas</string>
+    <string name="txtRecycler">Título nota</string>
+    <string name="txtRecycler1">Este puede ser un contenido de nota que puede ser largo</string>
+    <string name="txtRecycler2">Time note</string>
+
 
 </resources>
