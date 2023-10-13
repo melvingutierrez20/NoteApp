@@ -19,6 +19,7 @@
     <string name="txtRecycler">Título nota</string>
     <string name="txtRecycler1">Este puede ser un contenido de nota que puede ser largo</string>
     <string name="txtRecycler2">Time note</string>
+    <string name="txtdelete">Borrar Nota</string>
 
 
 </resources>
